@@ -2,7 +2,7 @@
 
 Este proyecto analiza las tasas de suicidio a nivel mundial utilizando el conjunto de datos "Suicide Rates Overview 1985 to 2016". El análisis busca comprender las correlaciones y patrones asociados con tasas de suicidio más altas en diferentes cohortes a lo largo del tiempo.
 
-## Integrantes del Proyecto
+## Integrantes del Proyecto Ingeniería de Sistemas
 
 - **Juan Fernando Cardona Ruiz**
 - **Carlos Osvaldo Zapata Arango**
