@@ -4,8 +4,8 @@ Este proyecto analiza las tasas de suicidio a nivel mundial utilizando el conjun
 
 ## Integrantes del Proyecto
 
-- **Juan Fernando Cardona Ruiz**, CC 1044508271, Ingeniería de Sistemas.
-- **Carlos Osvaldo Zapata Arango**, CC 1044504411, Ingeniería de Sistemas.
+- **Juan Fernando Cardona Ruiz**
+- **Carlos Osvaldo Zapata Arango**
 
 ## Fuente de Datos
 
